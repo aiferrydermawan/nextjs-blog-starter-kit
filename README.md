@@ -130,7 +130,6 @@ Use standard markdown syntax:
 ```javascript
 console.log("Code blocks work too!");
 ```
-```
 
 ### 4. Your post is live!
 
